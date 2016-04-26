@@ -10,7 +10,7 @@ README
 
 4. Should load with some Java conversation in the error tab. You should now see the 'Jython Console' tab in burp.
 
-5. See 'Example_Usages' for some ideas...
+5. Refer to 'https://github.com/mwielgoszewski/jython-burp-api' for further information. (tips hat!)
 
 6. Enjoy being creative
 
