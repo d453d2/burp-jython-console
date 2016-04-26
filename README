@@ -1,0 +1,16 @@
+README
+
+0. Unzip - should have done this to see this file... 
+
+1. Place Lib folder and, if you dont have one, the burp.ini file in the same dir as burp.jar file (burp root)
+
+2. Move the jython-standalone-2.7.0.jar file to a directory of your choosing and point burp to it from within burp (Extender -> Options -> Python Environment -> Location of Jython standalone JAR file:).
+
+3. Add the file from 'Lib/burp_extender.py' to the extender (Extender -> Extensions -> Add).
+
+4. Should load with some Java conversation in the error tab. You should now see the 'Jython Console' tab in burp.
+
+5. See 'Example_Usages' for some ideas...
+
+6. Enjoy being creative
+
